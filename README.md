@@ -50,17 +50,25 @@ Basically the MVVM architecture has three components at play and these are: View
 - [Prototype](https://drive.google.com/file/d/1xJyggVdY3h7j_IfKaVPFiCuGmqhtR558/view?usp=sharing)
 - [Mockup Design](https://drive.google.com/file/d/1Ng7uVhtFaZ64ibE-0vkJkKFkNMHcJ2Kt/view?usp=sharing)
 
-## Case Study Research
-I made a comprehensive research about the project with regards to the solution. Check out this [paper](https://drive.google.com/file/d/1ogau3n-0AnkLj0oh5zd-Y6p6QaTFv2yy/view?usp=sharing)
+## Test-driven Development
+The development solely focused on instrumented unit tests where it builds and runs through a physical device in order to check the responsiveness of the user interface. However, this test is slow compared to local unit test but it does give a significant evaluation of the app’s behavior in the long run against actual device hardware. Basically, it emulates the actions of the end user using the app to further test what might not work, hence, failed test and configuring the code. In other words, instrumentation test provides a functional test approach, in effect; more user-oriented especially it deals with a real device to run tests.
 
-## YouTube Walkthrough Video
+Espresso and JUnit4 frameworks were the main player to TDD of the android app. specifically; Espresso tests the state expectations, interactions, and assertions in a cohesive manner alienating the messy implementations in the background. Not to mention, it runs the UI test optimally fast with ease. Consequently, it simulates the test of the app’s behavior through interactions between the view and view model. Basically, it performs UI test in order to grasp the logic, configurations, and limitations behind it.
+
+## Case Study Research
+I made a comprehensive research about the project with regards to the solution. Check out this [paper](https://drive.google.com/file/d/12O708BrfVdLXF07z49t4bjnO2FDxx-Xu/view?usp=sharing)
+
+## YouTube Demo Video
 This is a walkthrough process or demo video of the android application software development using the Java programming language. Proceed to the [video](link for the app demo vid)
 
 ## API Documentation (JavaDoc)
-*put javadoc file here*
+For more details about the API documentation proceed to this [link](https://drive.google.com/drive/folders/1HXifZVwPhdBfY0wyrJrYm12Wg7KeJNrh?usp=sharing).
 
-## Executable JAR File
-*put .jar file here*
+## Executable APK File
+Install this [APK file](https://drive.google.com/file/d/1zUcZ2S9vp1UCr_bkNgsDOc_QI-H1mhnw/view?usp=sharing) on any Android device. 
+
+## Source Code/Files
+*The sources code/files can be seen in the 'master' branch of this repository*
 
 ## Softwares
 This project would not be possible without these softwares coming to aid the whole process and seamless visualizations.
