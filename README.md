@@ -59,7 +59,7 @@ Espresso and JUnit4 frameworks were the main player to TDD of the android app. s
 I made a comprehensive research about the project with regards to the solution. Check out this [paper](https://drive.google.com/file/d/12O708BrfVdLXF07z49t4bjnO2FDxx-Xu/view?usp=sharing)
 
 ## YouTube Demo Video
-This is a walkthrough process or demo video of the android application software development using the Java programming language. Proceed to the [video](link for the app demo vid)
+This is a walkthrough process or demo video of the android application software development using the Java programming language. Proceed to the [playlist](https://youtube.com/playlist?list=PL0kq_HLCMKPkUenvoOIrlWuA6qlhD_Q-b)
 
 ## API Documentation (JavaDoc)
 For more details about the API documentation proceed to this [link](https://drive.google.com/drive/folders/1HXifZVwPhdBfY0wyrJrYm12Wg7KeJNrh?usp=sharing).
