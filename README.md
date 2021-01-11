@@ -55,6 +55,9 @@ The development solely focused on instrumented unit tests where it builds and ru
 
 Espresso and JUnit4 frameworks were the main player to TDD of the android app. specifically; Espresso tests the state expectations, interactions, and assertions in a cohesive manner alienating the messy implementations in the background. Not to mention, it runs the UI test optimally fast with ease. Consequently, it simulates the test of the app’s behavior through interactions between the view and view model. Basically, it performs UI test in order to grasp the logic, configurations, and limitations behind it.
 
+## Test-driven Development
+Here's the breakdown of the best practices I've observed throughout the development of this project. Proceed to this [link](https://drive.google.com/file/d/19kbzJT7yA-YBBryQoIfamAriXGP892vd/view?usp=sharing)
+
 ## Case Study Research
 I made a comprehensive research about the project with regards to the solution. Check out this [paper](https://drive.google.com/file/d/12O708BrfVdLXF07z49t4bjnO2FDxx-Xu/view?usp=sharing)
 
